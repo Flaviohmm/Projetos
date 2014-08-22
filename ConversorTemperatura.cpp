@@ -5,7 +5,7 @@ using namespace std;
 
 float cel2temp()
 {  //1	
-	float TC,TF,TK,TR,TRa;
+    float TC,TF,TK,TR,TRa;
 	
     cout << "digite o valor em Celsius:\n\n";
     cin >> TC;
