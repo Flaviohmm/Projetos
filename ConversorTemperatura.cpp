@@ -137,7 +137,7 @@ main()
 	switch(opcao)
 	{
 		case 1:
-			cel2temp();
+		    cel2temp();
 		break;
 		case 2:
 		    far2temp();
@@ -146,10 +146,10 @@ main()
 		    kel2temp();
 		break;
 		case 4:
-			Rea2temp();
+		    Rea2temp();
 		break;
 		case 5:
-			Ran2temp();
+		    Ran2temp();
 		break;
 		default:
 			cout << "opcao invalida \n";
